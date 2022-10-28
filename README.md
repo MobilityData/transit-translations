@@ -1,4 +1,4 @@
-# THIS REPO HAS BEEN ARCHIVED ON OCTOBER 28, 2022
+# THIS REPO HAS BEEN ARCHIVED ON OCT. 28, 2022
 
 The repository contains specification to manipulate General Transit
 Feed Specification (GTFS) and GTFS Realtime:
